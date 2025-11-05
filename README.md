@@ -1,8 +1,7 @@
 # 👋 Hi, I'm **Youssef Hagag Youssef**
 
-🎯 **Backend Developer | Laravel | Filament | Livewire | RESTful APIs**  
-📍 Cairo, Egypt | 📧 [yousefhagag179@gmail.com](mailto:yousefhagag179@gmail.com) | 📱 +20 1027198084  
-🌐 [GitHub](https://github.com/yossif-hagag) | [LinkedIn](https://www.linkedin.com/in/yossif-hagag-10a9ab1bb/)
+🎯 **Backend Developer | Laravel • PHP • MySQL • RESTful APIs • Filament | Basic Frontend Skills**  
+📍 Cairo, Egypt | 📧 [yousefhagag179@gmail.com](mailto:yousefhagag179@gmail.com) | 📱 +20 1027198084 | [LinkedIn](https://www.linkedin.com/in/yossif-hagag-10a9ab1bb/)
 
 ---
 
@@ -104,6 +103,6 @@ Helwan University — *Class of 2021*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yossif-hagag&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossif-hagag&layout=compact&theme=radical)
 
----
+## 🧠 Contributions in the Last Year
+![Youssef's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yossif-hagag&theme=radical)
 
-> 💡 *“Code with purpose, build with passion.”*
