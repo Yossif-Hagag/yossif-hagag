@@ -102,7 +102,3 @@ Helwan University — *Class of 2021*
 ![Profile Views](https://komarev.com/ghpvc/?username=yossif-hagag)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yossif-hagag&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossif-hagag&layout=compact&theme=radical)
-
-## 🧠 Contributions in the Last Year
-![Youssef's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yossif-hagag&theme=radical)
-
