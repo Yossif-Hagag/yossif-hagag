@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 تواصل معي
-- 💌 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yossif-hagag-10a9ab1bb/))
+- 💌 [LinkedIn](https://www.linkedin.com/in/yossif-hagag-10a9ab1bb/)
 - 📧 yousefhagag179@gmail.com  
 
 ---
