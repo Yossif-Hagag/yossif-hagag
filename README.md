@@ -13,7 +13,7 @@
 <p align="left">
     <a href="https://wa.me/201027198084" target="_blank">📞 Contact Me</a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/youssef-hagag-10a9ab1bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <a href="https://www.linkedin.com/in/youssef-hagag-10a9ab1bb" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
     </a>
     <a href="https://www.facebook.com/share/1AWY9V1UxG" target="_blank">
