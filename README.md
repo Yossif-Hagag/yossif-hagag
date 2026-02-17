@@ -70,7 +70,7 @@
     • RESTful APIs  
     • AJAX  
     • Livewire  
-    • Filament PHP
+    • Filament Admin Panel
 </p>
 
 <hr/>
