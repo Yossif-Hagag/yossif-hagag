@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1SDKjHkNSEbPTYVHAgig98NPDr-on1Wmh/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1S1-npk5au6XhDClL_tOVJ1nSKkWeAqhV/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/📄 View My CV-000000?style=for-the-badge&logo=readme&logoColor=FFD700"/>
   </a>
 </p>
