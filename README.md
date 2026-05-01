@@ -21,13 +21,12 @@
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-blue?style=flat&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FFAA00?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-blue?style=flat&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filament-FFAA00?style=flat&logo=laravel&logoColor=white" />
 </p>
 
 ### Frontend
