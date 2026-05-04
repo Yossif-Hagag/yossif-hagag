@@ -54,10 +54,11 @@
 
 ---
 
-## GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yossif-Hagag&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossif-Hagag&layout=compact&theme=vision-friendly-dark&langs_count=10" />
+  <img
+    src="https://raw.githubusercontent.com/Yossif-Hagag/Yossif-Hagag/main/github-metrics.svg"
+    width="90%"
+  />
 </p>
 
 ---
