@@ -55,10 +55,10 @@
 ---
 
 <p align="center">
-  <!-- <img
+  <img
     src="https://raw.githubusercontent.com/Yossif-Hagag/Yossif-Hagag/main/github-metrics.svg"
     width="90%"
-  /> -->
+  />
 </p>
 
 ---
